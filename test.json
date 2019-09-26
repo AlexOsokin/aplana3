@@ -1,0 +1,165 @@
+
+[
+    {
+        "id": 1,
+        "code": "IRNP",
+        "name_full": "Акционерное общество \"Иркутскпродукт\"",
+        "name_short": "АО \"Иркутскпродукт\"",
+        "inn": "38001230798",
+        "company_type": {
+            "id": 16,
+            "name_short": "АО",
+            "name_full": "Акционерное общество"
+        },
+        "ogrn": "1323800208080",
+        "egrul_date": "2001-09-05",
+        "country": {
+            "id": 190,
+            "code": "RU",
+            "name": "РОССИЯ"
+        },
+        "fio_head": "Семенов Василий Игнатьевич",
+        "address": "664901, г. Иркутск, ул. Ленина, д.15",
+        "phone": "(3952) 32-12-11",
+        "e_mail": "inp@knp.ros.ru",
+        "www": "http:\/\/www.inpk.ru\/",
+        "is_resident": true,
+        "securities": [
+            {
+                "id": 10000801,
+                "code": "RU0005702712",
+                "name_full": "Акции привилегированные типа А АО \"Иркутскпродукт\"",
+                "cfi": "ETXXAR",
+                "date_to": "2015-10-19",
+                "state_reg_date": "2001-12-04",
+                "state": {
+                    "id": 2,
+                    "name": "Аннулирован"
+                },
+                "currency": {
+                    "id": 6,
+                    "code": "RUB",
+                    "name_short": "руб.",
+                    "name_full": "Рубли"
+                }
+            },
+            {
+                "id": 10000101,
+                "code": "RU0005118323",
+                "name_full": "Облигации  \"Иркутскпродукт\"",
+                "cfi": "EZXXAR",
+                "date_to": "2020-10-23",
+                "state_reg_date": "2002-11-08",
+                "state": {
+                    "id": 1,
+                    "name": "Действующий"
+                },
+                "currency": {
+                    "id": 1,
+                    "code": "USD",
+                    "name_short": "дол.",
+                    "name_full": "Доллары"
+                }
+            },
+            {
+                "id": 10000158,
+                "code": "RU0005119973",
+                "name_full": "Облигации  \"Иркутскпродукт\"",
+                "cfi": "EZXXAR",
+                "date_to": "2024-10-23",
+                "state_reg_date": "2007-11-08",
+                "state": {
+                    "id": 1,
+                    "name": "Действующий"
+                },
+                "currency": {
+                    "id": 3,
+                    "code": "EU",
+                    "name_short": "ев.",
+                    "name_full": "Евро"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "code": "IRKP",
+        "name_full": "Акционерное общество \"Белоруспродукт\"",
+        "name_short": "АО \"Белоруспродукт\"",
+        "inn": "38005597688",
+        "company_type": {
+            "id": 17,
+            "name_short": "ЗАО",
+            "name_full": "Закрытое акционерное общество"
+        },
+        "ogrn": "1323890206490",
+        "egrul_date": "2005-01-28",
+        "country": {
+            "id": 191,
+            "code": "BLR",
+            "name": "БЕЛОРУССИЯ"
+        },
+        "fio_head": "Лукашенко Александр Александрович",
+        "address": "664901, г. Минск, ул. Ленина, д.15",
+        "phone": "(3759) 54-16-58",
+        "e_mail": "rus@knp.com",
+        "www": "http:\/\/www.brus.com\/",
+        "is_resident": true,
+        "securities": [
+            {
+                "id": 10000805,
+                "code": "BLR0006823222",
+                "name_full": "Акции привилегированные типа А ЗАО \"Белоруспродукт\"",
+                "cfi": "ETXZAR",
+                "date_to": "2016-07-25",
+                "state_reg_date": "2006-10-04",
+                "state": {
+                    "id": 2,
+                    "name": "Аннулирован"
+                },
+                "currency": {
+                    "id": 6,
+                    "code": "RUB",
+                    "name_short": "руб.",
+                    "name_full": "Рубли"
+                }
+            },
+            {
+                "id": 10000101,
+                "code": "BLR0005118323",
+                "name_full": "Облигации  \"Белоруспродукт\"",
+                "cfi": "EZXZAR",
+                "date_to": "2025-10-23",
+                "state_reg_date": "2007-10-05",
+                "state": {
+                    "id": 1,
+                    "name": "Действующий"
+                },
+                "currency": {
+                    "id": 1,
+                    "code": "USD",
+                    "name_short": "дол.",
+                    "name_full": "Доллары"
+                }
+            },
+            {
+                "id": 10002301,
+                "code": "BLR0005115523",
+                "name_full": "Облигации  \"Белоруспродукт\"",
+                "cfi": "EZXZAR",
+                "date_to": "2018-10-23",
+                "state_reg_date": "2007-10-05",
+                "state": {
+                    "id": 1,
+                    "name": "Действующий"
+                },
+                "currency": {
+                    "id": 3,
+                    "code": "CNY",
+                    "name_short": "юа.",
+                    "name_full": "Юань"
+                }
+            }
+        ]
+    }
+]
